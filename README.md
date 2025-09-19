@@ -1,2 +1,2 @@
 # Java
-This Repo for Java.
+A collection of Java mini projects for learning and practice. Each project focuses on different concepts of Java such as classes, objects, methods, loops, conditionals, and basic problem-solving.
